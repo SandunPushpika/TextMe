@@ -2,4 +2,5 @@
 A Chrome Extendsion for capturing Youtube video frames and convert to text through an OCR engine.
 
 # Demo
-[![Watch the video](https://raw.githubusercontent.com/SandunPushpika/TextMe/main/thumbnail.png)](https://raw.githubusercontent.com/SandunPushpika/TextMe/main/demo.webm)
+
+[demo.webm](https://github.com/user-attachments/assets/18d09da3-6f86-4227-8fbd-eb946c5d7f9d)
